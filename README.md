@@ -1,4 +1,4 @@
-# weenix
+# Weenix: Operating System based on Unix
 A full operating system kernel, based on Unix, built as a semester-long project in CS 1690 (Operating Systems) at Brown University. Read more about the course and the individual projects [here](https://github.com/brown-cs1690/handout/wiki).
 
 The projects, in order of completion:
